@@ -8,19 +8,22 @@ The PyCity school board has reviewed the standardized test scores for the distri
 
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
-How is the district summary affected?
+### District Summary Impact 
 
-District Summary
+- After removing the 9th graders from Thomas High School, the data shows that the average scores for the district decreases. Thus, the presence of their grades infers that their grades were greater than the district average. 
 
-
-District Summary New (without Thomas High School 9th Graders)
-
+  - District Summary New (without Thomas High School 9th Graders)
 
 ![Alt text](https://github.com/Austin-Cyr/School_District_Analysis/blob/main/District%20Summary%2010-11-12th.PNG?raw=true)
 
+  - District Summary (All Students)
+
+![Alt_Text](https://github.com/Austin-Cyr/School_District_Analysis/blob/main/District%20Summary%209-12.PNG?raw=true)
+
+### School Summary Impact
+ 
 
 
-How is the school summary affected?
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 How does replacing the ninth-grade scores affect the following:
 - Math and reading scores by grade
