@@ -47,11 +47,11 @@ The PyCity school board has reviewed the standardized test scores for the distri
 
 ### Replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade
-      - Replacing the 9th graders' scores for Thomas High School with null values, would not have any impact on the other schools 9th graders or Thomas High School's other students because they are independent variables and thus not impacted by each other. 
+      - Replacing the 9th graders' scores for Thomas High School with null values, would not have any impact on the other schools 9th graders or Thomas High School's other students because they are independent variables and thus not impacted by each other. Below is an image of the Reading scores, which only has an impact of Null values for the Thomas High School 9th Graders.
 
+![Alt_Text}(https://github.com/Austin-Cyr/School_District_Analysis/commit/241d62a34af05a328c3fc0fcab186bb7a3063da5)
 
-
-- Scores by school spending
+  - Scores by school spending
 - Scores by school size
 - Scores by school type
 
