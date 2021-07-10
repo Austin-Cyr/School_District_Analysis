@@ -22,7 +22,12 @@ The PyCity school board has reviewed the standardized test scores for the distri
 
 ### School Summary Impact
  
+- After removing the 9th graders from Thomas High School, the data shows that the average scores did not change, but the Percent passing the Reading and Math decreased. Thus, the presence of the 9th grader grades infers that a greater percentage of them passed then the rest of the school.
 
+  - School Summary New (without Thomas High School 9th Graders)
+
+
+  - School Summary (All Students)
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 How does replacing the ninth-grade scores affect the following:
