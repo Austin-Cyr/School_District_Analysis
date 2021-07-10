@@ -34,9 +34,23 @@ The PyCity school board has reviewed the standardized test scores for the distri
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
+  - Replacing the 9th graders' scores reduces Thomas High School's performance relative to other schools. Previously, they were in the top 5 and now they are not when you remove the 9th graders' scores because their percentage of overall passing has dropped to the 60 percentile.
 
-How does replacing the ninth-grade scores affect the following:
-- Math and reading scores by grade
+  - Without the 9th Grader Scores
+![Alt_Text](https://github.com/Austin-Cyr/School_District_Analysis/blob/main/Per_School_Summary_10-12_Perf_Comp_Title.PNG)
+
+![Alt_Text](https://github.com/Austin-Cyr/School_District_Analysis/blob/main/Per_School_Summary_10-12_Perf_Comp.PNG)
+
+  - With the 9th Grader Scores
+![Alt_Text](https://github.com/Austin-Cyr/School_District_Analysis/blob/main/Per_School_Summary_9-12_Perf_Comp.PNG)
+
+
+### Replacing the ninth-grade scores affect the following:
+  - Math and reading scores by grade
+      - Replacing the 9th graders' scores for Thomas High School with null values, would not have any impact on the other schools 9th graders or Thomas High School's other students because they are independent variables and thus not impacted by each other. 
+
+
+
 - Scores by school spending
 - Scores by school size
 - Scores by school type
