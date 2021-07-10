@@ -64,5 +64,8 @@ The PyCity school board has reviewed the standardized test scores for the distri
 - Scores by school type
       - Scores by type was impacted as well since Thomas High School is a charter school. 
 
+![Alt_Text](https://github.com/Austin-Cyr/School_District_Analysis/blob/main/scores_by_type.PNG)
 
-## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+## Summary: 
+
+As a result of removing higher scoring students from the data set, all of the metric saw a reduced scoring for the respective category. The average Math and Reading scores decrease across the district. We saw scores by school spending decrease, particularly in its school size range and the school type range. In essence, the data does suggest that the scoring of the 9th graders at Thomas High School were abnormally high and should be reviewed more closely. 
