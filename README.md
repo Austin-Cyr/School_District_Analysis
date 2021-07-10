@@ -10,6 +10,14 @@ The PyCity school board has reviewed the standardized test scores for the distri
 
 How is the district summary affected?
 
+District Summary
+
+
+District Summary New (without Thomas High School 9th Graders)
+
+
+![Alt text](https://github.com/Austin-Cyr/School_District_Analysis/blob/main/District%20Summary%2010-11-12th.PNG?raw=true)
+
 
 
 How is the school summary affected?
