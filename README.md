@@ -49,10 +49,16 @@ The PyCity school board has reviewed the standardized test scores for the distri
   - Math and reading scores by grade
       - Replacing the 9th graders' scores for Thomas High School with null values, would not have any impact on the other schools 9th graders or Thomas High School's other students because they are independent variables and thus not impacted by each other. Below is an image of the Reading scores, which only has an impact of Null values for the Thomas High School 9th Graders.
 
-![Alt_Text}(https://github.com/Austin-Cyr/School_District_Analysis/commit/241d62a34af05a328c3fc0fcab186bb7a3063da5)
+![Alt_Text](https://github.com/Austin-Cyr/School_District_Analysis/commit/241d62a34af05a328c3fc0fcab186bb7a3063da5)
 
   - Scores by school spending
+      - Scores by school spending were impacted because an entire class at a school was removed from consideration. Particularly because this school was spending more per student.
+
+![Alt_Text](https://github.com/Austin-Cyr/School_District_Analysis/blob/main/Avg_Spending_wo_9th_graders.PNG)
+
 - Scores by school size
+
+
 - Scores by school type
 
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
