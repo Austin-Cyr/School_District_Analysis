@@ -32,7 +32,9 @@ The PyCity school board has reviewed the standardized test scores for the distri
 
 ![Alt_Text](https://github.com/Austin-Cyr/School_District_Analysis/blob/main/Per_School_Summary_9-12.PNG)
 
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+
 How does replacing the ninth-grade scores affect the following:
 - Math and reading scores by grade
 - Scores by school spending
